@@ -1,0 +1,11 @@
+Algorithim to print grade obtained by student
+
+Step 1:Start 
+step 2:Input a set of 4 marks M1,M2,M3,M4
+Step 3:Calculate their average by summimg and dividing by 4
+       Grade=(M1+M2+M3+M4)/4
+STep 4:If Grade is below 50
+         print"FAIL"
+Step 5:else
+         print"PASS"
+Step 6:End
